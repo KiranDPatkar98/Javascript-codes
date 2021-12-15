@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heading{
+    
+    text-align: center;
+    
+}
+.str{
+    display: flex;
+    justify-content: center;
+   
+}
+ .main{
+
+    border: 4px solid yellowgreen;
+
+width: 25%;
+margin-top: 50px;
+background-color:#ccd5ae;
+
+
+} 
+section{
+    display: flex;
+    background-color:#e39774; 
+    position: relative;
+    height: 60px;
+}
+.main h1{
+    margin: 10px;
+}
+.main .img{
+    width: 100px;
+    height: 70px;
+    border-radius: 50%;
+   position: absolute;
+   right: 5px;
+   top: 10px;
+   border: 1px solid black;
+   
+   
+    
+}
+.divend{
+    padding: 10px;
+  margin-left: 10px;  
+  height: 100px;
+}
+

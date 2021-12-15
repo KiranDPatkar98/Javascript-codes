@@ -1,0 +1,29 @@
+thead>tr>th{
+    color: blue;
+}
+tbody>tr>td{
+    /* color: red; */
+    font-weight: bolder;
+   
+}
+label{
+    color: darkgreen;
+  
+}
+#myTable_info{
+color: darkorange;
+}
+a{
+    background-color: darksalmon;
+    color: gold;
+} 
+/* body{
+    background-color: aqua;
+} */
+table{
+    border: 2px solid black;
+    background-color:deepskyblue;
+}
+td{
+    background-color:darkseagreen;
+}

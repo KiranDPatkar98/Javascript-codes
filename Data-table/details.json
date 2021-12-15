@@ -1,0 +1,127 @@
+
+   { 
+       "data":[
+        {   "id":"01",
+            "name":"Kiran D Patkar",
+            "position":"React-Developer",
+            "dob":"20/10/1998",
+            "location":"Udupi",
+            "email":"kiran@gmail.com"
+        },
+        {   "id":"02",
+            "name":"Pandu",
+            "position":"React-Developer",
+            "dob":"24/10/1996",
+            "location":"Karavara",
+            "email":"callme_pandu@gmail.com"
+            
+        },
+        {   "id":"03",
+            "name":"Chethan",
+            "position":"manual-testing",
+            "dob":"22/09/1998",
+            "location":"Mysore",
+            "email":"its_me_chethan@gmail.com"
+        },
+        {   "id":"04",
+            "name":"Roshan Shetty",
+            "position":"java-Developer",
+            "dob":"10/05/1996",
+            "location":"Mangalore",
+            "email":"roshan@gmail.com"
+        },{ "id":"05",
+            "name":"Shreekar",
+            "position":"react-Developer",
+            "dob":"19/04/1994",
+            "location":"Hosapete",
+            "email":"swagboy_shrekar@gmail.com"
+        
+        },{ "id":"06",
+            "name":"Monica",
+            "position":"full stackDeveloper",
+            "dob":"29/02/1994",
+            "location":"Mysore",
+            "email":"call_me_monu@gmail.com"
+        },{ 
+            "id":"07",
+            "name":"Chandan",
+            "position":"phython-Developer",
+            "dob":"10/05/1990",
+            "location":"Bihar",
+            "email":"call_me_salman@gmail.com"
+        },{
+            "id":"08",
+            "name":"Vinutha",
+            "position":"java-Developer",
+            "dob":"25/11/1996",
+            "location":"Gadag",
+            "email":"hy_its_vinitha@gmail.com"
+        },{ "id":"09",
+            "name":"Vikas",
+            "position":"java-Developer",
+            "dob":"20/05/1998",
+            "location":"Hasan",
+            "email":"its_me_vikas@gmail.com"
+        },{ "id":"10",
+            "name":"Nithin",
+            "position":"java-Developer",
+            "dob":"10/04/1999",
+            "location":"Chikkamagalur",
+            "email":"sweet_boy_nithin@gmail.com"
+        },{ 
+            "id":"11",
+            "name":"Suvin Shetty",
+            "position":"java-Developer",
+            "dob":"11/05/1993",
+            "location":"Mangalore",
+            "email":"Suvin@gmail.com"
+        },
+        {   "id":"12",
+            "name":"Shashank",
+            "position":"nodejs-Developer",
+            "dob":"10/11/1990",
+            "location":"Bangalore",
+            "email":"its_shashank@gmail.com"
+        },{"id":"13",
+            "name":"Keshav",
+            "position":"nodejs-Developer",
+            "dob":"10/08/1990",
+            "location":"Bangalore",
+            "email":"its_keshav@gmail.com"
+        },{"id":"14",
+            "name":"Lavanya",
+            "position":"angular-Developer",
+            "dob":"10/06/2000",
+            "location":"Kudla",
+            "email":"its_lavanya@gmail.com"
+        },{"id":"15",
+            "name":"Vaibhav",
+            "position":"java-Developer",
+            "dob":"10/05/1995",
+            "location":"Guna",
+            "email":"its_vaibhav@gmail.com"
+        },
+        {"id":"16",
+            "name":"Vaibhavi",
+            "position":"angular-Developer",
+            "dob":"12/08/1995",
+            "location":"Guna",
+            "email":"its_vaibhav@gmail.com"
+        },
+        {"id":"17",
+            "name":"Rakshu",
+            "position":"angular-Developer",
+            "dob":"13/02/1998",
+            "location":"Mumbai",
+            "email":"its_vaibhav@gmail.com"
+        }, {"id":"18",
+            "name":"priya",
+            "position":"angular-Developer",
+            "dob":"31/05/1992",
+            "location":"Hubbali",
+            "email":"angel_priya@gmail.com"
+        }
+
+
+    ]
+   }

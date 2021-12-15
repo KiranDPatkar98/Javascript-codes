@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <section>
+      <h1>Registration Form</h1>
+      <br>
+      <form  >
+        <div class="subdiv">
+          <!-- <label for="username">Username :</label> -->
+          <input  id="username" class="ValueField" type="text" placeholder="Username" autocomplete="off" required/>
+          <span class="ficon"><i class="fas fa-user-alt"></i></span>
+        <span id="eicon"><i class="fas fa-check-circle"></i></span>
+       <span id="error"><i class="fas fa-exclamation-triangle"></i></span>
+          <p id="pusername"  ></p>
+        </div>
+        <br /><br />
+
+        <div class="subdiv"> 
+          <!-- <label for="email"> Email :</label> -->
+          <input id="email" type="email" placeholder="Email ID" autocomplete="off"  required/>
+          <span class="ficon"><i class="fas fa-envelope-square"></i></span>
+          <span id="eiconemail"><i class="fas fa-check-circle"></i></span>
+          <span id="erroremail"><i class="fas fa-exclamation-triangle"></i></span>
+          <p id="pemail"></p>
+        </div>
+        <br /><br />
+
+        <div class="subdiv">
+          <!-- <label for="pwd">Password :</label> -->
+          <input id="pwd" autocomplete="off" type="password" placeholder="Password" required />
+         <span class="ficon"><i class="fas fa-lock"></i></span>
+         <span id="eiconpwd"><i class="fas fa-check-circle"></i></span>
+         <span id="errorpwd"><i class="fas fa-exclamation-triangle"></i></span>
+         <p id="ppwd"></p>
+        </div>
+        <br /><br />
+
+        <div class="subdiv">
+          <!-- <label for="rpwd">Retype Password :</label> -->
+          <input id="rpwd" autocomplete="off" type="password" placeholder="Re-type Password"  required/>
+          <span class="ficon"><i class="fas fa-lock-open"></i></span>
+          <span id="eiconrepwd"><i class="fas fa-check-circle"></i></span>
+          <span id="errorrepwd"><i class="fas fa-exclamation-triangle"></i></span>
+          <p id="rppwd"></p>
+        </div>
+        <br /><br />
+
+        <div class="subdiv"> 
+          <!-- <label for="mbno">Mobile No :</label> -->
+          <input id="mbno" autocomplete="off" type="text" placeholder=" Mobile Number"  required/>
+          <span class="ficon"><i class="fas fa-mobile"></i></span>
+          <span id="eiconmbl"><i class="fas fa-check-circle"></i></span>
+          <span id="errormbl"><i class="fas fa-exclamation-triangle"></i></span>
+          <p id="pmbl"> </p>
+        </div>
+        <br /><br />
+          <div id="btndiv">
+           
+       <button id="btn" type="submit">Submit</button>
+       <!-- <input type="submit" value="submit"> -->
+      </div>
+      </form>
+    </section>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

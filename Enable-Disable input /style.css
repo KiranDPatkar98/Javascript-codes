@@ -1,0 +1,27 @@
+input{
+    cursor: not-allowed;
+    width: 200px;
+    
+    
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#main{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 300px;
+    border: 20px solid red;
+    justify-content: center;
+    align-items: center;
+}
+#btndiv{
+    padding: 30px;
+}
+.btn1{
+    background-color: yellow;
+}

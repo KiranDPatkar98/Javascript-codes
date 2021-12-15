@@ -1,0 +1,9 @@
+#menuBar{
+    display: flex;
+   /* border: 2px solid black; */
+}
+aside{
+    margin-top: 38px;
+    margin-left: 56px;
+    
+}
